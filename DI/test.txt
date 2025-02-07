@@ -1,0 +1,16 @@
+the image provided is a bar chart that gives information about Most used technology。
+While X axis talks about type of Technology,it including computer,TV,Telephone,radio,ipod and webcam.
+the Y axis talks about number of users
+It is evident that highest item is Webcam, quantity is eight million
+Conversely,the lowest item webcam, only have  five hundred thousand
+Another interesting point is we can notice an increase, and form webcam to telephone
+Overall, this image illustrates  
+
+=======================
+the image provide a bar chart that gives information about the world's biggest Chocolate consumers，
+According to the data, Switzerland consumes the most chocklate ,with 19.8 pounds per capita each yeah.
+after that we can see, Germany consumes the second-highest amount of chocolate in the world, with 17.4 lbs each year,
+However,France is the ninthe-largest consumer of chocolate ,with 9.3 Ibs each year. It is interesting to note that
+both Ireland and the united Kingdom have the  same amount of chocolate consumption each year,
+ranked as the third-largest in the world In conclusion,this graph provides important information about the world's biggest
+chocolate consumers.
